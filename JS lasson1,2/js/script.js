@@ -46,27 +46,27 @@ console.log(String(str));
 //!-НЕ
 
 
-// alert("i lake js");
-// let doYouLikeQuestion = confirm("Do you like js?");
-// console.log(doYouLikeQuestion);
+alert("i lake js");
+let doYouLikeQuestion = confirm("Do you like js?");
+console.log(doYouLikeQuestion);
 
-// const enterWords = prompt("enter any");
-// console.log(enterWords)
+const enterWords = prompt("enter any");
+console.log(enterWords)
 
-// ()-условия
-// {}результат -тело
-//конструкция if else
-// if (isNaN(enterWords)) {
-//   console.log("NaN");
-// }
-// if (enterWords === "word") {
-//   console.log("Cool");
-// } else if(enterWords === "cat"){
-//     console.log("animal");
-// }
-// else {
-//     console.log('not cool')
-// }
+()-условия
+{}результат -тело
+конструкция if else
+if (isNaN(enterWords)) {
+  console.log("NaN");
+}
+if (enterWords === "word") {
+  console.log("Cool");
+} else if(enterWords === "cat"){
+    console.log("animal");
+}
+else {
+    console.log('not cool')
+}
 
 
 alert("введите свой возрат");
